@@ -1,0 +1,14 @@
+{
+  "name": "Hurdat2-API",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "nodemailer": "^6.9.14"
+  }
+}
