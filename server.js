@@ -8,7 +8,7 @@ const PORT = process.env.PORT || 3000;
 const app = express();
 
 const corsOptions = {
-  origin: ['http://localhost:3000', 'https://mikemedina22800.github.io'],
+  origin: ['http://localhost:3000', 'https://mikematics22800.github.io'],
   methods: ['GET', 'POST', 'OPTIONS'],
   allowedHeaders: ['Content-Type'],
 };
